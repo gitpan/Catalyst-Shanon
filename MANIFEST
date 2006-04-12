@@ -1,0 +1,24 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Catalyst-Shanon.t
+lib/Catalyst/Shanon.pm
+lib/Catalyst/Controller/ADVEL.pm
+lib/Catalyst/Controller/ADVEL/Multi.pm
+lib/Catalyst/Controller/ADVEL/Popup.pm
+lib/Catalyst/Helper/Controller/ADVEL.pm
+lib/Catalyst/Helper/Controller/ADVEL/Multi.pm
+lib/Catalyst/Helper/Model/ShanonConfig.pm
+lib/Catalyst/Helper/Model/ShanonConfig2.pm
+lib/Catalyst/Helper/Model/ShanonDBI.pm
+lib/Catalyst/Helper/View/ShanonHTML.pm
+lib/Catalyst/Helper/View/ShanonHTML/Multi.pm
+lib/Catalyst/Model/ShanonDBI.pm
+lib/Catalyst/Model/ShanonConfig.pm
+lib/Catalyst/Plugin/ClassConfig.pm
+lib/Catalyst/Plugin/EmailMulti.pm
+lib/Catalyst/Plugin/Errorcheck.pm
+lib/Catalyst/Plugin/ShanonUtil.pm
+lib/Catalyst/View/ShanonHTML.pm
+META.yml                                 Module meta-data (added by MakeMaker)
